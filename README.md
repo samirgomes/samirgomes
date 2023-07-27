@@ -1,6 +1,5 @@
 ## Olá! Sou o Samir Gomes 🤓
 
-
 - 🔭 Eu estou estudando Front-End
 - 🌱 Atualmente aprendendo sobre responsividade 
 - 📧 e-mail: samirg.ribeiro@gmail.com
