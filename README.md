@@ -1,5 +1,7 @@
 ## Olá! Sou o Samir Gomes 🤓
 
+![octocat](https://github.com/samirgomes/samirgomes/assets/130385313/5d61816e-e23d-4e15-a2f0-eaf3925329eb)
+
 - 🔭 Eu estou estudando Front-End
 - 🌱 Atualmente aprendendo sobre responsividade 
 - 📧 e-mail: samirg.ribeiro@gmail.com
