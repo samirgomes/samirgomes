@@ -2,8 +2,8 @@
 
 ![octocat](https://github.com/samirgomes/samirgomes/assets/130385313/5d61816e-e23d-4e15-a2f0-eaf3925329eb)
 
-- 🔭 Eu estou estudando Front-End
-- 🌱 Atualmente aprendendo sobre responsividade 
+- 🔭 Eu estou estudando **Front-End**
+- 🌱 Atualmente aprendendo sobre *responsividade*
 - 📧 e-mail: samirg.ribeiro@gmail.com
 
 ### Ferramentas e Tecnologias:
@@ -22,7 +22,6 @@
 <a href="https://www.linkedin.com/in/samir-gomes-8b09b71a6" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>        <a href = "mailto:samirg.ribeiro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 
 
-![Snake animation](https://github.com/samirgomes/samirgomes/blob/output/github-contribution-grid-snake.svg)
 
 
 
