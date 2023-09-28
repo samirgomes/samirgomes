@@ -3,12 +3,13 @@
 ![octocat](https://github.com/samirgomes/samirgomes/assets/130385313/5d61816e-e23d-4e15-a2f0-eaf3925329eb)
 
 - 🔭 Eu estou estudando **Desenvolvimento Web Front-End**
-- 🌱 Atualmente aprendendo sobre *Javascript*
+- 🌱 Atualmente aprendendo sobre *JavaScript*
 - 📧 e-mail: samirg.ribeiro@gmail.com
 
 ### Ferramentas e Tecnologias:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+
           
           
 ### Estatísticas
